@@ -1,0 +1,8 @@
+prefix=/home/robotica/PaulyFabs/PM_proyecto_final-master/install
+
+Name: rosserial_vex_v5
+Description: Description of rosserial_vex_v5
+Version: 0.8.0
+Cflags: 
+Libs: -L/home/robotica/PaulyFabs/PM_proyecto_final-master/install/lib 
+Requires: 
